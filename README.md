@@ -1,4 +1,4 @@
-software-picks
+Software Picks
 ==============
 
 This repository is a structured reference to other repos I find useful and that help me.

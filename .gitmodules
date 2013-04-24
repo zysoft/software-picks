@@ -1,0 +1,9 @@
+[submodule "Development/Mac/Xcode/Plugins/ColorSense-for-Xcode"]
+	path = Development/Mac/Xcode/Plugins/ColorSense-for-Xcode
+	url = git://github.com/omz/ColorSense-for-Xcode.git
+[submodule "Development/Mac/Xcode/Plugins/KSImageNamed-Xcode"]
+	path = Development/Mac/Xcode/Plugins/KSImageNamed-Xcode
+	url = git://github.com/ksuther/KSImageNamed-Xcode.git
+[submodule "Development/Mac/Xcode/Plugins/Xcode-4-Fixins"]
+	path = Development/Mac/Xcode/Plugins/Xcode-4-Fixins
+	url = git://github.com/davekeck/Xcode-4-Fixins.git
