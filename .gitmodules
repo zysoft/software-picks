@@ -13,3 +13,6 @@
 [submodule "Development/Mac-iOS/Libs/iOS/Reader"]
 	path = Development/Mac-iOS/Libs/iOS/Reader
 	url = https://github.com/vfr/Reader
+[submodule "Development/Mac-iOS/Xcode/Plugins/VVDocumenter"]
+	path = Development/Mac-iOS/Xcode/Plugins/VVDocumenter
+	url = https://github.com/onevcat/VVDocumenter-Xcode.git
